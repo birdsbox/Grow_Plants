@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+  }
+  
+  img {
+    
+  }
+  
+  .button {
+    vertical-align: top;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+  
