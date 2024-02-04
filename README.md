@@ -1,1 +1,1 @@
-A simple web game : water the plan and watch it grow. 
+A simple web game : water the plant and watch it grow. 
